@@ -105,3 +105,6 @@ console.log(instructor);
 // }
 
 
+    console.log(`${member}   :  ${person[member]}`);
+
+// console.log("Hello World")
